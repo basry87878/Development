@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# This is Duolingo-like simple application made by React native 
+
+
+
+
+
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
