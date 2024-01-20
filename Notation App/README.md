@@ -1,4 +1,7 @@
-# This is Duolingo-like simple application made by React native 
+# This is a simple notation(to do) web application built by 
+react js as a front-end
+.Net core as backend
+SQL server database
 
 
 
